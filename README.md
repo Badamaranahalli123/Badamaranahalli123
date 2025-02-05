@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Badamaranahalli123 
 - 👀 I’m interested in ... engeneering coding 
 - 🌱 I’m currently learning ... engeneering
 - 💞️ I’m looking to collaborate on ... coding
