@@ -1,4 +1,4 @@
-- 👀 I’m interested in ...AIML FIELD 
+
 - 🌱 I’m currently learning ... engeneering
 - 💞️ I’m looking to collaborate on ... coding
 - 📫 How to reach me ... no
